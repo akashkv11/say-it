@@ -1,0 +1,6 @@
+[submodule "say-it/say-it/say-it-client"]
+	path = say-it/say-it/say-it-client
+	url = https://github.com/akashkv11/say-it-client.git
+[submodule "say-it/say-it/SayIt-server"]
+	path = say-it/say-it/SayIt-server
+	url = https://github.com/akashkv11/SayIt-server.git
